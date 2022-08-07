@@ -1,4 +1,4 @@
-Web-based android calculator clone with all functionalities and attributes replicated. #Pet-Proje
+Web-based android calculator clone with all functionalities and attributes replicated. #Pet-Proj
 
 
 
