@@ -1,4 +1,4 @@
-Web-based android calculator clone with all functionalities and attributes replicated. #Pet-Pr
+Web-based android calculator clone with all functionalities and attributes replicated. #Pet-P
 
 
 
